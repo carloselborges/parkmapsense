@@ -10,7 +10,8 @@
 
 ## About
 
-This repository is the official companion to the paper **"ParkMapSense: A Model for Parking Occupancy Mapping and Prediction in Smart Cities"**.
+This repository is the official companion to the paper **"ParkMapSense: A Model for Parking Occupancy Mapping and Prediction in Smart Cities"**, submitted to the **Journal Name and link**.
+Manuscript link: **add link when available**.
 
 <!-- , submitted to the *Journal of Ambient Intelligence and Smart Environments* -->
 <!-- Add the link when available -->
